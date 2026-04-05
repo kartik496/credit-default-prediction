@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model-green)
   # 💳 Credit Card Default Prediction and Risk Analysis
 
 ## 📌 Project Overview
