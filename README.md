@@ -42,8 +42,8 @@ Payment history is the most important factor in predicting default.
 
 ---
 
-## 📄 Documentatio
+## 📄 Documentation
 ---
 
 ## 👤 Author
-**Kartik**
+**Kartik Mohan**
